@@ -19,3 +19,6 @@ print(dict1)
 # deleting an item from the dictionary
 del dict1[4]
 print(dict1)
+
+# accessing an item from the dictionary
+print(dict1[1])
