@@ -15,3 +15,7 @@ print(dict1)
 # upating an item in the dictionary
 dict1[4] = "E"
 print(dict1)
+
+# deleting an item from the dictionary
+del dict1[4]
+print(dict1)
